@@ -1,0 +1,198 @@
+TeX Live installer invocation: /data/data/com.termux/files/usr/opt/texlive/install-tl/install-tl -custom-bin /data/data/com.termux/files/usr/bin/texlive -init-from-profile /data/data/com.termux/files/usr/opt/texlive/termux.profile 
+Trying to verify cryptographic signatures!
+Loading https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet/tlpkg/texlive.tlpdb
+Installing TeX Live 2025 from: https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet (verified)
+Platform: aarch64-linux => 'GNU/Linux on ARM64'
+Distribution: net  (downloading)
+Using URL: https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet
+Directory for temporary files: /data/data/com.termux/files/usr/tmp/K7E5PPEQmG
+Installer revision: 74223
+Database revision: 75685
+Settings:
+  TEXDIR: "/data/data/com.termux/files/usr/share/texlive/2025"
+  TEXMFCONFIG: "~/.texlive2025/texmf-config"
+  TEXMFHOME: "~/texmf"
+  TEXMFLOCAL: "/data/data/com.termux/files/usr/share/texlive/texmf-local"
+  TEXMFSYSCONFIG: "/data/data/com.termux/files/usr/share/texlive/2025/texmf-config"
+  TEXMFSYSVAR: "/data/data/com.termux/files/usr/share/texlive/2025/texmf-var"
+  TEXMFVAR: "~/.texlive2025/texmf-var"
+  binary_aarch64-linux: ""
+  binary_amd64-freebsd: ""
+  binary_amd64-netbsd: ""
+  binary_armhf-linux: ""
+  binary_i386-freebsd: ""
+  binary_i386-linux: ""
+  binary_i386-netbsd: ""
+  binary_i386-solaris: ""
+  binary_universal-darwin: ""
+  binary_windows: ""
+  binary_x86_64-cygwin: ""
+  binary_x86_64-darwinlegacy: ""
+  binary_x86_64-linux: ""
+  binary_x86_64-linuxmusl: ""
+  binary_x86_64-solaris: ""
+  collection-basic: "1"
+  collection-bibtexextra: "1"
+  collection-binextra: "1"
+  collection-context: "1"
+  collection-fontsextra: "1"
+  collection-fontsrecommended: "1"
+  collection-fontutils: "1"
+  collection-formatsextra: "1"
+  collection-games: "1"
+  collection-humanities: "1"
+  collection-langarabic: "1"
+  collection-langchinese: "1"
+  collection-langcjk: "1"
+  collection-langcyrillic: "1"
+  collection-langczechslovak: "1"
+  collection-langenglish: "1"
+  collection-langeuropean: "1"
+  collection-langfrench: "1"
+  collection-langgerman: "1"
+  collection-langgreek: "1"
+  collection-langitalian: "1"
+  collection-langjapanese: "1"
+  collection-langkorean: "1"
+  collection-langother: "1"
+  collection-langpolish: "1"
+  collection-langportuguese: "1"
+  collection-langspanish: "1"
+  collection-latex: "1"
+  collection-latexextra: "1"
+  collection-latexrecommended: "1"
+  collection-luatex: "1"
+  collection-mathscience: "1"
+  collection-metapost: "1"
+  collection-music: "1"
+  collection-pictures: "1"
+  collection-plaingeneric: "1"
+  collection-pstricks: "1"
+  collection-publishers: "1"
+  collection-texworks: "1"
+  collection-wintools: ""
+  collection-xetex: "1"
+  doc_splitting_supported: "1"
+  free_size: "199937"
+  instopt_adjustpath: "1"
+  instopt_adjustrepo: "1"
+  instopt_letter: ""
+  instopt_portable: ""
+  instopt_write18_restricted: "1"
+  n_collections_available: "41"
+  n_collections_selected: "40"
+  n_systems_available: "15"
+  n_systems_selected: ""
+  page: ""
+  selected_scheme: "scheme-full"
+  src_splitting_supported: "1"
+  this_platform: "aarch64-linux"
+  tlpdbopt_autobackup: "1"
+  tlpdbopt_backupdir: "tlpkg/backups"
+  tlpdbopt_create_formats: "1"
+  tlpdbopt_desktop_integration: "1"
+  tlpdbopt_file_assocs: "1"
+  tlpdbopt_generate_updmap: ""
+  tlpdbopt_install_docfiles: ""
+  tlpdbopt_install_srcfiles: ""
+  tlpdbopt_location: "https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet"
+  tlpdbopt_post_code: "1"
+  tlpdbopt_sys_bin: "/data/data/com.termux/files/usr/bin"
+  tlpdbopt_sys_info: "/data/data/com.termux/files/usr/share/info"
+  tlpdbopt_sys_man: "/data/data/com.termux/files/usr/share/man"
+  tlpdbopt_w32_multi_user: "1"
+  total_size: "3908"
+Installing to: /data/data/com.termux/files/usr/share/texlive/2025
+Installing [1/4, time/total: ??:??/??:??]: hyphen-base [23k]
+Installing [2/4, time/total: 00:00/00:00]: kpathsea [33k]
+Installing [3/4, time/total: 00:00/00:00]: texlive-scripts [113k]
+Installing [4/4, time/total: 00:01/00:03]: texlive.infra [406k]
+Time used for installing the packages: 00:01
+Installing [0001/4635, time/total: ??:??/??:??]: 12many [3k]
+Installing [0002/4635, time/total: 00:01/184:20:07]: 2up [5k]
+Installing [0003/4635, time/total: 00:01/61:31:23]: a0poster [4k]
+Installing [0004/4635, time/total: 00:01/40:20:59]: a2ping [30k]
+Installing [0005/4635, time/total: 00:02/19:15:53]: a4wide [1k]
+Installing [0006/4635, time/total: 00:02/18:47:33]: a5comb [1k]
+Installing [0007/4635, time/total: 00:02/18:21:43]: aaai-named [6k]
+Installing [0008/4635, time/total: 00:03/24:32:19]: aalok [6k]
+Installing [0009/4635, time/total: 00:03/21:44:41]: aastex [50k]
+Installing [0010/4635, time/total: 00:04/14:57:28]: abbr [3k]
+Installing [0011/4635, time/total: 00:04/14:35:17]: abc [3k]
+Installing [0012/4635, time/total: 00:04/14:14:20]: abnt [3k]
+Installing [0013/4635, time/total: 00:05/17:21:10]: abntex2 [30k]
+Installing [0014/4635, time/total: 00:05/13:41:16]: abntexto [9k]
+Installing [0015/4635, time/total: 00:06/15:31:27]: aboensis [95k]
+Installing [0016/4635, time/total: 00:06/09:26:25]: abraces [4k]
+Installing [0017/4635, time/total: 00:06/09:17:31]: abspos [3k]
+Installing [0018/4635, time/total: 00:07/10:44:07]: abstract [2k]
+Installing [0019/4635, time/total: 00:07/10:39:08]: abstyles [8k]
+Installing [0020/4635, time/total: 00:08/11:48:13]: academicons [35k]
+Installing [0021/4635, time/total: 00:08/10:24:28]: accanthis [360k]
+Installing [0022/4635, time/total: 00:09/05:14:22]: accents [3k]
+Installing [0023/4635, time/total: 00:09/05:12:59]: accessibility [14k]
+Installing [0024/4635, time/total: 00:09/05:06:44]: accfonts [22k]
+Installing [0025/4635, time/total: 00:10/05:30:03]: accsupp [4k]
+Installing [0026/4635, time/total: 00:10/05:28:31]: achemso [19k]
+Installing [0027/4635, time/total: 00:11/05:51:44]: acmart [44k]
+Installing [0028/4635, time/total: 00:11/05:31:33]: acmconf [5k]
+Installing [0029/4635, time/total: 00:12/05:59:45]: acro [44k]
+Installing [0030/4635, time/total: 00:12/05:40:16]: acronym [6k]
+Installing [0031/4635, time/total: 00:12/05:38:07]: acroterm [2k]
+Installing [0032/4635, time/total: 00:13/06:05:40]: active-conf [5k]
+Installing [0033/4635, time/total: 00:13/06:03:40]: actuarialangle [2k]
+Installing [0034/4635, time/total: 00:13/06:02:48]: actuarialsymbol [3k]
+Installing [0035/4635, time/total: 00:14/06:29:26]: addfont [2k]
+Installing [0036/4635, time/total: 00:14/06:28:44]: addliga [1k]
+Installing [0037/4635, time/total: 00:15/06:56:07]: addlines [2k]
+Installing [0038/4635, time/total: 00:15/06:55:21]: addtoluatexpath [3k]
+Installing [0039/4635, time/total: 00:15/06:54:12]: adfathesis [10k]
+Installing [0040/4635, time/total: 00:16/07:16:45]: adforn [38k]
+Installing [0041/4635, time/total: 00:16/06:57:50]: adfsymbols [29k]
+Installing [0042/4635, time/total: 00:17/07:09:53]: adhocfilelist [4k]
+Installing [0043/4635, time/total: 00:17/07:08:13]: adigraph [6k]
+Installing [0044/4635, time/total: 00:17/07:05:37]: adjmulticol [4k]
+Installing [0045/4635, time/total: 00:18/07:29:10]: adjustbox [14k]
+Installing [0046/4635, time/total: 00:18/07:22:38]: adobemapping [2128k]
+Installing [0047/4635, time/total: 00:19/02:21:30]: adrconv [3k]
+Installing [0048/4635, time/total: 00:20/02:28:49]: adtrees [8k]
+Installing [0049/4635, time/total: 00:20/02:28:27]: advdate [3k]
+Installing [0050/4635, time/total: 00:20/02:28:20]: advice [6k]
+Installing [0051/4635, time/total: 00:21/02:35:30]: ae [57k]
+Installing [0052/4635, time/total: 00:21/02:32:43]: aeguill [3k]
+Installing [0053/4635, time/total: 00:22/02:39:52]: aeskwadraat [60k]
+Installing [0054/4635, time/total: 00:22/02:36:52]: aesupp [2761k]
+Installing [0055/4635, time/total: 00:23/01:27:53]: affilauthor [3k]
+Installing [0056/4635, time/total: 00:24/01:31:40]: afm2pl [10k]
+Installing [0057/4635, time/total: 00:24/01:31:31]: afperpack [5k]
+Installing [0058/4635, time/total: 00:25/01:35:16]: afthesis [13k]
+Installing [0059/4635, time/total: 00:25/01:35:04]: aguplus [29k]
+Installing [0060/4635, time/total: 00:25/01:34:37]: aiaa [9k]
+Installing [0061/4635, time/total: 00:26/01:38:16]: aichej [7k]
+Installing [0062/4635, time/total: 00:26/01:38:10]: aiplans [3k]
+Installing [0063/4635, time/total: 00:27/01:41:54]: ajl [7k]
+Installing [0064/4635, time/total: 00:27/01:41:48]: akktex [14k]
+Installing [0065/4635, time/total: 00:27/01:41:34]: akletter [10k]
+Installing [0066/4635, time/total: 00:28/01:45:10]: akshar [3k]
+Installing [0067/4635, time/total: 00:28/01:45:07]: albatross [4894k]
+Installing [0068/4635, time/total: 00:30/01:02:16]: alchemist [4k]
+Installing [0069/4635, time/total: 00:30/01:02:15]: alegreya [23068k]
+TLPDB::_install_data: downloading did not succeed (download_file failed) for https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet/archive/alegreya.tar.xz
+TLUtils::install_packages: Failed to install alegreya
+                           alegreya will be retried later.
+Installing [0070/4635, time/total: 00:33/01:08:29]: aleph [1k]
+Installing [0071/4635, time/total: 00:33/01:08:29]: alertmessage [7k]
+Installing [0072/4635, time/total: 00:33/01:08:26]: alfaslabone [174k]
+TLPDB::_install_data: Decompressing /data/data/com.termux/files/usr/tmp/K7E5PPEQmG/W0khAVuIsO/alfaslabone.tar.xz failed for https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet/archive/alfaslabone.tar.xz
+TLUtils::install_packages: Failed to install alfaslabone
+                           alfaslabone will be retried later.
+Installing [0073/4635, time/total: 00:34/01:10:31]: alg [3k]
+Installing [0074/4635, time/total: 00:34/01:10:30]: algobox [4k]
+TLPDB::_install_data: downloading did not succeed (download_file failed) for https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet/archive/algobox.tar.xz
+TLUtils::install_packages: Failed to install algobox
+                           algobox will be retried later.
+Installing [0075/4635, time/total: 00:34/01:10:30]: algolrevived [376k]
+TLPDB::_install_data: downloading did not succeed (download_file failed) for https://ctan.mirror.garr.it/mirrors/ctan/systems/texlive/tlnet/archive/algolrevived.tar.xz
+TLUtils::install_packages: Failed to install algolrevived
+                           algolrevived will be retried later.
+Installing [0076/4635, time/total: 00:34/01:10:30]: algorithm2e [33k]
